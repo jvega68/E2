@@ -9,6 +9,7 @@ Col 1 = Dulce = Indice dulzura (mayor indice es mas dulzura)
 Col 2 = Pectin = Cantidad de pectina (en ppm)
 end variables
 begin data
+Caso  Dulce Pectin
  1          5.2         220
  2          5.5         227
  3          6.0         259

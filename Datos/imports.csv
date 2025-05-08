@@ -1,0 +1,17 @@
+dataset = Importaciones
+begin description
+Importaciones de paises desarrollados y en vias de desarrollo (World Economy, 1992)
+end description
+begin variables
+Col 0 = A&o
+Col 1 = x = Importaciones de los paises industrializados
+Col 2 = y = Inportaciones paises en vias de desarrollo.
+end variables
+begin data
+(
+1950     39.8   21.1 
+1960     85.4   40.1
+1970    226.9   75.6
+1980   1370.2  556.4
+1990   2237.9  819.4
+)
